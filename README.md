@@ -1,4 +1,4 @@
 # final-1
-https://littlelittleany.github.io/final-1-main/
+https://wenjuchou.github.io/final-project-1/
 
 Ruby and Anny's collaboration
